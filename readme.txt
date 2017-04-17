@@ -62,6 +62,10 @@ It does not require any coding, or other complicated operation.
 
 == Changelog ==
 
+
+= 1.0.6 =
+* Bug Solved:  solution of the problem with the deprecated constructor 
+
 = 1.0.5 =
 * Add Russian translation
 * Add target link blank option
